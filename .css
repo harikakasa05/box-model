@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+*{
+    box-sizing: border-sizing;
+    overflow: hidden;
+}
+.container {
+    align-items: center;
+}
+.card{
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 30px;
+    border-radius: 7px;
+}
+.btn{
+    background-color: rgb(162, 225, 46);
+    color: white;
+}
